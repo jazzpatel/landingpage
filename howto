@@ -1,2 +1,0 @@
-npx --ignore-existing create-react-app landingpage --template typescript 
-convert getanicki_logo.png --transparent #ffffff t.png
