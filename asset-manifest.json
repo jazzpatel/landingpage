@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.a28868b6.css",
-    "main.js": "/static/js/main.4947a71d.js",
-    "static/js/787.66b477fd.chunk.js": "/static/js/787.66b477fd.chunk.js",
-    "static/media/Benedict Regular.otf": "/static/media/Benedict Regular.126985c931de0ad1faba.otf",
-    "static/media/DailyChallenge.otf": "/static/media/DailyChallenge.b036aaf48aba9661e717.otf",
-    "index.html": "/index.html",
-    "main.a28868b6.css.map": "/static/css/main.a28868b6.css.map",
-    "main.4947a71d.js.map": "/static/js/main.4947a71d.js.map",
-    "787.66b477fd.chunk.js.map": "/static/js/787.66b477fd.chunk.js.map"
+    "main.css": "/landingpage/static/css/main.890a9e10.css",
+    "main.js": "/landingpage/static/js/main.0ec92602.js",
+    "static/js/787.66b477fd.chunk.js": "/landingpage/static/js/787.66b477fd.chunk.js",
+    "static/media/Benedict Regular.otf": "/landingpage/static/media/Benedict Regular.126985c931de0ad1faba.otf",
+    "static/media/DailyChallenge.otf": "/landingpage/static/media/DailyChallenge.b036aaf48aba9661e717.otf",
+    "index.html": "/landingpage/index.html",
+    "main.890a9e10.css.map": "/landingpage/static/css/main.890a9e10.css.map",
+    "main.0ec92602.js.map": "/landingpage/static/js/main.0ec92602.js.map",
+    "787.66b477fd.chunk.js.map": "/landingpage/static/js/787.66b477fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a28868b6.css",
-    "static/js/main.4947a71d.js"
+    "static/css/main.890a9e10.css",
+    "static/js/main.0ec92602.js"
   ]
 }
