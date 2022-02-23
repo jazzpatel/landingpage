@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/landingpage/static/css/main.f5fe3c73.css",
-    "main.js": "/landingpage/static/js/main.0d5ab2f3.js",
+    "main.css": "/landingpage/static/css/main.29876086.css",
+    "main.js": "/landingpage/static/js/main.b68fb99c.js",
     "static/js/787.66b477fd.chunk.js": "/landingpage/static/js/787.66b477fd.chunk.js",
     "static/media/Benedict Regular.otf": "/landingpage/static/media/Benedict Regular.126985c931de0ad1faba.otf",
     "static/media/hero.jpeg": "/landingpage/static/media/hero.8530833b3dbbb497d49b.jpeg",
+    "static/media/Raleway-Medium.ttf": "/landingpage/static/media/Raleway-Medium.bde676ccd529227b132d.ttf",
+    "static/media/College Halo.ttf": "/landingpage/static/media/College Halo.365ab84df1edcf7ea866.ttf",
     "static/media/DailyChallenge.otf": "/landingpage/static/media/DailyChallenge.b036aaf48aba9661e717.otf",
     "static/media/underlineswirl.png": "/landingpage/static/media/underlineswirl.a83773c1cc3ddd4d311c.png",
     "index.html": "/landingpage/index.html",
-    "main.f5fe3c73.css.map": "/landingpage/static/css/main.f5fe3c73.css.map",
-    "main.0d5ab2f3.js.map": "/landingpage/static/js/main.0d5ab2f3.js.map",
+    "main.29876086.css.map": "/landingpage/static/css/main.29876086.css.map",
+    "main.b68fb99c.js.map": "/landingpage/static/js/main.b68fb99c.js.map",
     "787.66b477fd.chunk.js.map": "/landingpage/static/js/787.66b477fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5fe3c73.css",
-    "static/js/main.0d5ab2f3.js"
+    "static/css/main.29876086.css",
+    "static/js/main.b68fb99c.js"
   ]
 }
