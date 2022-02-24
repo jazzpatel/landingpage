@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/landingpage/static/css/main.b13ebf48.css",
-    "main.js": "/landingpage/static/js/main.d9f6606b.js",
+    "main.css": "/landingpage/static/css/main.0a971dc0.css",
+    "main.js": "/landingpage/static/js/main.a34d7588.js",
     "static/js/787.66b477fd.chunk.js": "/landingpage/static/js/787.66b477fd.chunk.js",
     "static/media/ourstorybackground.jpg": "/landingpage/static/media/ourstorybackground.10b6ed37a46878163445.jpg",
     "static/media/Benedict Regular.otf": "/landingpage/static/media/Benedict Regular.126985c931de0ad1faba.otf",
@@ -12,12 +12,12 @@
     "static/media/DailyChallenge.otf": "/landingpage/static/media/DailyChallenge.b036aaf48aba9661e717.otf",
     "static/media/underlineswirl.png": "/landingpage/static/media/underlineswirl.a83773c1cc3ddd4d311c.png",
     "index.html": "/landingpage/index.html",
-    "main.b13ebf48.css.map": "/landingpage/static/css/main.b13ebf48.css.map",
-    "main.d9f6606b.js.map": "/landingpage/static/js/main.d9f6606b.js.map",
+    "main.0a971dc0.css.map": "/landingpage/static/css/main.0a971dc0.css.map",
+    "main.a34d7588.js.map": "/landingpage/static/js/main.a34d7588.js.map",
     "787.66b477fd.chunk.js.map": "/landingpage/static/js/787.66b477fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b13ebf48.css",
-    "static/js/main.d9f6606b.js"
+    "static/css/main.0a971dc0.css",
+    "static/js/main.a34d7588.js"
   ]
 }
